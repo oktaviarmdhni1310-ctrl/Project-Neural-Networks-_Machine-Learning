@@ -37,13 +37,13 @@ Melalui project ini, mahasiswa diharapkan mampu:
 
 
 
-## 📂 Dataset yang Digunakan
+## Dataset yang Digunakan
 
 Project ini **WAJIB menggunakan seluruh dataset berikut**:
 
 
 
-### 📁 Dataset 1 – Online Retail II (UCI)
+### Dataset 1 – Online Retail II (UCI)
 
 * **File:** `online_retail_II.xlsx`
 * **Deskripsi:** Dataset transaksi ritel online di Inggris yang berisi informasi invoice, produk, jumlah pembelian, harga, dan pelanggan.
@@ -69,7 +69,7 @@ Project ini **WAJIB menggunakan seluruh dataset berikut**:
 * **Sumber:** UCI Machine Learning Repository
 
 
-### 🌫️ Dataset 3 – Air Quality Dataset (Italy)
+### Dataset 3 – Air Quality Dataset (Italy)
 
 * **File:** `Air_quality.csv`
 * **Deskripsi:** Dataset time-series kualitas udara dari sensor lingkungan yang mencatat berbagai parameter polutan.
@@ -81,7 +81,7 @@ Project ini **WAJIB menggunakan seluruh dataset berikut**:
 * **Sumber:** UCI Machine Learning Repository
 
 
-### 🏨 Dataset 4 – Hotel Booking Demand
+### Dataset 4 – Hotel Booking Demand
 
 * **File:** `hotel_bookings.csv`
 * **Deskripsi:** Dataset reservasi hotel yang berisi informasi pelanggan, tipe hotel, lama menginap, dan status pembatalan.
@@ -93,7 +93,7 @@ Project ini **WAJIB menggunakan seluruh dataset berikut**:
 * **Sumber:** Kaggle
 
 
-## 🛠️ Ruang Lingkup Pengerjaan
+## Ruang Lingkup Pengerjaan
 
 Setiap dataset dikerjakan dengan tahapan berikut:
 
@@ -116,7 +116,7 @@ Setiap dataset dikerjakan dengan tahapan berikut:
 
 
 
-## 📝 Ketentuan Laporan
+## Ketentuan Laporan
 
 * **Panjang:** 10–15 halaman
 * **Format:** PDF
@@ -132,7 +132,7 @@ Setiap dataset dikerjakan dengan tahapan berikut:
 * **Nama seluruh anggota kelompok wajib dicantumkan**
 
 
-## 📁 Struktur Repository GitHub
+## Struktur Repository GitHub
 
 Struktur repository disarankan sebagai berikut:
 
